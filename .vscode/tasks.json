@@ -7,7 +7,7 @@
       "command": "C:\\Users\\Vangelis\\Downloads\\cpp\\mingw64\\bin\\g++.exe",
       "args": [
         "-fdiagnostics-color=always",
-        "-g",
+        "-g3",
         "-Wall",
         "${file}",
         "-o",
@@ -25,3 +25,4 @@
     }
   ]
 }
+
